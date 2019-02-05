@@ -1,0 +1,26 @@
+# Win
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Vim
+*.sw?
+*~
+
+# Eclipse
+.project
+.settings
+.buildpath
+
+# PhpStorm
+.idea/
+
+# direnv
+.envrc
+
+# npm
+/node_modules*
+
+# editorconfig
+.editorconfig
